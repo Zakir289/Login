@@ -7,3 +7,6 @@
 4. Till now, You have installed all the node modules and create the database. That's you can start the project. 
 5. Before that please ensure you have internet connection, because I am using few front-end libraries through CDN
 6. you can reach me at zakir0559@gmail.com for any clarifications
+
+#### Please find the landing page below
+![Landing page] (https://github.com/Zakir289/Login/blob/master/DocumentedImages/LoginHomePage.png)
